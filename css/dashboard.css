@@ -617,3 +617,22 @@ padding: 0;
   
     
 }
+@media (min-width:425px){
+   
+    .charts .box,
+    .charts .box-copy {
+        position: relative;
+      width: 165px;
+      height: 200px;
+      display: box;
+      /* margin: 5% auto auto auto; */
+    transform: translateY(-40%);
+    }
+    .graghs .box .rang{
+        font-size: 9px;
+    }
+  .charts .content .dashtext{
+    margin-bottom: 10px;
+  }
+    
+}
