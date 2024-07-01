@@ -618,7 +618,9 @@ padding: 0;
     
 }
 @media (min-width:425px){
-   
+   .charts{
+    background-color: red;
+   }
     .charts .box,
     .charts .box-copy {
         position: relative;
